@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CarPark
+comment1.params=
+comment1.target=CarPark()
+comment1.text=\r\n\ constructor\ for\ objects\ of\ class\ Car.\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ listAllSlots()
+comment2.text=\r\n\ list\ all\ parking\ slots\r\n\ @return\ parkingSlots\r\n
+comment3.params=slotID
+comment3.target=ParkingSlot\ findASlot(java.lang.String)
+comment3.text=\r\n\ to\ find\ a\ parking\ slot\ in\ the\ car\ park\r\n\ @param\ slotID\ \ the\ parking\ slot\ number\r\n\ @return\ ps\ \ \ one\ objects\ in\ the\ arraylist\r\n
+comment4.params=ps
+comment4.target=void\ addASlot(ParkingSlot)
+comment4.text=\r\n\ add\ a\ parking\ slot\ to\ the\ car\ park\r\n\ @param\ ps\ \ \ a\ new\ parking\ slot\r\n
+comment5.params=ps
+comment5.target=void\ deleteASlot(ParkingSlot)
+comment5.text=\r\n\ remove\ a\ parking\ slot\ from\ the\ car\ park\r\n\ @param\ ps\ \ a\ parking\ slot\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ return\ a\ string\ if\ there\ is\ no\ parking\ slots\ in\ the\ car\ park\r\n\ @return\ strings\r\n
+numComments=7

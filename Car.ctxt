@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ The\ first\ project\ for\ COS70006\r\n\ A\ parking\ slot\ system\:\ Class\ Car\ will\ be\ identified\ by\ a\ car\ registration\ number.\ A\ registration\ number\ always\ starts\ with\ a\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ capital\ letter,\ followed\ by\ a\ five-digit\ number\ e.g.\ \u201CT12345\u201D.\ It\ also\ have\ an\ owner\ and\ knows\ if\ the\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ owner\ is\ a\ staff\ member.\ If\ the\ car\ park\ in\ a\ slot,\ the\ slot\ number\ should\ be\ recorded.\r\n\ @author\ \ \ \ Mona\ Ma\ (103699029)\r\n\ @version\ \ \ JDK1.8\ ,\ javac\ 11.0.14\r\n\ @date\ \ \ \ \ \ Created\ on\ 31\ March\ 2022\r\n
+comment1.params=regNumber\ ownerType\ owner
+comment1.target=Car(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ constructor\ for\ objects\ of\ class\ Car.\r\n\ @param\ regNumber\r\n\ @param\ ownerType\r\n\ @param\ owner\r\n
+comment2.params=
+comment2.target=java.lang.String\ getRegNumber()
+comment2.text=\r\n\ getter\ method\ for\ variable\ registerNumber\r\n\ @return\ regNumber\r\n
+comment3.params=regNumber
+comment3.target=void\ setRegNumber(java.lang.String)
+comment3.text=\r\n\ setter\ method\ for\ variable\ registerNumber\r\n\ @param\ regNumber\r\n
+comment4.params=
+comment4.target=java.lang.String\ getOwnerType()
+comment4.text=\r\n\ getter\ method\ for\ variable\ ownerType\r\n\ @return\ ownerType\r\n
+comment5.params=ownerType
+comment5.target=void\ setOwnerType(java.lang.String)
+comment5.text=\r\n\ setter\ method\ for\ variable\ ownerType\r\n\ @param\ ownerType\r\n
+comment6.params=
+comment6.target=java.lang.String\ getOwner()
+comment6.text=\r\n\ getter\ method\ for\ variable\ owner\r\n\ @return\ owner\r\n
+comment7.params=owner
+comment7.target=void\ setOwner(java.lang.String)
+comment7.text=\r\n\ setter\ method\ for\ variable\ owner\r\n\ @param\ owner\r\n
+numComments=8
